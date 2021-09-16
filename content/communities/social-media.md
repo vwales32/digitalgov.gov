@@ -21,6 +21,8 @@ authors:
   - author-gallow
   - dominique-ramirez
   - courtney-rogers
+  - victoria-bitzer-wales
+  - glorymar-rivera
 
 # see all topics at https://digital.gov/topics
 topics:
